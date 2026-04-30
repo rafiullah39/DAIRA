@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892718162528",
+    "project_id": "daira-e405d",
+    "storage_bucket": "daira-e405d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892718162528:android:c2541dbb82d4b011959905",
+        "android_client_info": {
+          "package_name": "com.example.daira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABECfDAabynGpkD9CbAxMzd5gt0Cqy05k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
